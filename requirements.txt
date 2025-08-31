@@ -1,6 +1,10 @@
-streamlit==1.37.1
-geopandas==0.14.4
-shapely==2.0.4
-pyproj==3.6.1
-fiona==1.9.6
-
+streamlit
+geopandas
+shapely
+pyproj
+fiona
+pandas
+folium
+streamlit-folium
+sqlalchemy
+psycopg2-binary
